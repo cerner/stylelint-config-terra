@@ -1,0 +1,10 @@
+language: node_js
+sudo: required
+dist: trusty
+script:
+  - npm run danger
+  - npm run lint
+branches:
+  only:
+    - master
+cache: false

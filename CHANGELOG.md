@@ -4,6 +4,8 @@ ChangeLog
 Unreleased
 -----------------
 
+1.1.0 - (Augst 8, 2018)
+------------------
 ### Changed
 * Added `calc`, `cursor`, and `outline` to ignored style list for browser support.
 

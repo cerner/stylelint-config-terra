@@ -48,8 +48,8 @@
   },
   "devDependencies": {
     "danger": "^3.7.14",
-    "eslint": "^4.19.1",
-    "eslint-config-terra": "^1.0.0",
+    "eslint": "^5.0.0",
+    "eslint-config-terra": "^2.0.0",
     "rimraf": "^2.6.1",
     "shelljs": "^0.8.2",
     "stylelint": "^9.3.0"

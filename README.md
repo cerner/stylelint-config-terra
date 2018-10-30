@@ -63,6 +63,15 @@ For example, it is possible to override the browsers specified to the no-unsuppo
 }
 ```
 
+## Custom Lint Rules
+
+The following custom rules are enabled by default.
+
+* [terra/custom-property-name](https://github.com/cerner/stylelint-config-terra/blob/master/lib/rules/custom-property-name): Requires custom properties to be suffixed with the css property name.
+* [terra/custom-property-namespace-version](https://github.com/cerner/stylelint-config-terra/blob/master/lib/rules/custom-property-namespace-version): Requires custom properties to be prefixed with a namespace and version.
+* [terra/custom-property-pattern](https://github.com/cerner/stylelint-config-terra/blob/master/lib/rules/custom-property-pattern): Requires custom properties to be written in lowercase alphanumeric characters and hyphens.
+* [terra/custom-property-pseudo-selectors](https://github.com/cerner/stylelint-config-terra/blob/master/lib/rules/custom-property-pseudo-selectors): Requires custom properties to include all ancestor pseudo selectors in order.
+
 ## Versioning
 
 stylelint-config-terra is considered to be stable and will follow [SemVer](http://semver.org/) for versioning.

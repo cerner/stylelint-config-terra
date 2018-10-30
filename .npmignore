@@ -5,3 +5,4 @@ node_modules
 .gitignore
 CODE_OF_CONDUCT.md
 CONTRIBUTING.md
+__tests__

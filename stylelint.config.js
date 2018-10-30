@@ -5,6 +5,10 @@ module.exports = {
   plugins: [
     'stylelint-suitcss',
     'stylelint-no-unsupported-browser-features',
+    './lib/rules/custom-property-name/custom-property-name',
+    './lib/rules/custom-property-pattern/custom-property-pattern',
+    './lib/rules/custom-property-pseudo-selectors/custom-property-pseudo-selectors',
+    './lib/rules/custom-property-namespace-version/custom-property-namespace-version',
   ],
   rules: {
     'max-nesting-depth': 3,
@@ -14,6 +18,30 @@ module.exports = {
       'terra-[a-z]+([a-z0-9-]+[a-z0-9]+)?$',
       {
         message: 'Custom property names should be written in lowercase with hyphens',
+      },
+    ],
+    'terra/custom-property-name': [
+      true,
+      {
+        severity: 'warning',
+      },
+    ],
+    'terra/custom-property-pattern': [
+      true,
+      {
+        severity: 'warning',
+      },
+    ],
+    'terra/custom-property-pseudo-selectors': [
+      true,
+      {
+        severity: 'warning',
+      },
+    ],
+    'terra/custom-property-namespace-version': [
+      true,
+      {
+        severity: 'warning',
       },
     ],
     'plugin/no-unsupported-browser-features': [

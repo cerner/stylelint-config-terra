@@ -4,8 +4,10 @@ Cerner Corporation
 - Matt Henkes [@mjhenkes]
 - Tyler Biethman [@tbiethman]
 - Brett Jankord [@bjankord]
+- Stephen Esser [@StephenEsser]
 
 [@emilyrohrbough]: https://github.com/emilyrohrbough
 [@mjhenkes]: https://github.com/mjhenkes
 [@tbiethman]: https://github.com/tbiethman
 [@bjankord]: https://github.com/bjankord
+[@StephenEsser]: https://github.com/StephenEsser

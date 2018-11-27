@@ -5,6 +5,7 @@ module.exports = {
   plugins: [
     'stylelint-suitcss',
     'stylelint-no-unsupported-browser-features',
+    './lib/rules/custom-property-no-duplicate-declaration/custom-property-no-duplicate-declaration',
     './lib/rules/custom-property-name/custom-property-name',
     './lib/rules/custom-property-pattern/custom-property-pattern',
     './lib/rules/custom-property-pseudo-selectors/custom-property-pseudo-selectors',
@@ -21,6 +22,12 @@ module.exports = {
       },
     ],
     'terra/custom-property-name': [
+      true,
+      {
+        severity: 'warning',
+      },
+    ],
+    'terra/custom-property-no-duplicate-declaration': [
       true,
       {
         severity: 'warning',

@@ -1,7 +1,7 @@
 ChangeLog
 =========
 
-Unreleased
+1.4.0 - (November 29, 2018)
 -----------------
 ### Added
 * Added: `custom-property-no-duplicate-declaration` rule to disallow a custom property to be declared more than once with a different fallback value

@@ -1,6 +1,10 @@
 ChangeLog
 =========
 
+### Changed
+* Removed custom property version checking.
+* Renamed custom-property-namespace-version to custom-property-namespace
+
 1.4.0 - (November 29, 2018)
 -----------------
 ### Added

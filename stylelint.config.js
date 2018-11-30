@@ -9,7 +9,7 @@ module.exports = {
     './lib/rules/custom-property-name/custom-property-name',
     './lib/rules/custom-property-pattern/custom-property-pattern',
     './lib/rules/custom-property-pseudo-selectors/custom-property-pseudo-selectors',
-    './lib/rules/custom-property-namespace-version/custom-property-namespace-version',
+    './lib/rules/custom-property-namespace/custom-property-namespace',
   ],
   rules: {
     'max-nesting-depth': 3,
@@ -45,7 +45,7 @@ module.exports = {
         severity: 'warning',
       },
     ],
-    'terra/custom-property-namespace-version': [
+    'terra/custom-property-namespace': [
       true,
       {
         severity: 'warning',

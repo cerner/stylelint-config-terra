@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-terra",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Terra Stylelint Shared Config",
   "main": "stylelint.config.js",
   "repository": {

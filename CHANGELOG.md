@@ -1,5 +1,8 @@
 ChangeLog
 =========
+
+1.5.1 - (December 19, 2018)
+-----------------
 ### Fixed
 * Adjusted custom-property-pseudo-selectors to not require multiple definitions of the same pseudo selector if declared in the same block
 

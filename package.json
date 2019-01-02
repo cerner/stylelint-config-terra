@@ -13,8 +13,10 @@
     "Cerner",
     "Terra",
     "autoprefixer",
-    "stylelint",
-    "eslint"
+    "css",
+    "scss",
+    "lint",
+    "linter"
   ],
   "author": "Cerner Corporation",
   "license": "Apache-2.0",

@@ -31,6 +31,7 @@
     "clean": "rimraf node_modules",
     "clean:install": "npm run clean && npm install",
     "danger": "danger ci",
+    "danger:local": "danger local",
     "lint": "eslint --ext .js,.jsx .",
     "test": "tape lib/**/__tests__/**/*.js",
     "prepublishOnly": "npm run lint",

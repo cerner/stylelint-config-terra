@@ -21,36 +21,11 @@ module.exports = {
         message: 'Custom property names should be written in lowercase with hyphens',
       },
     ],
-    'terra/custom-property-name': [
-      true,
-      {
-        severity: 'warning',
-      },
-    ],
-    'terra/custom-property-no-duplicate-declaration': [
-      true,
-      {
-        severity: 'warning',
-      },
-    ],
-    'terra/custom-property-pattern': [
-      true,
-      {
-        severity: 'warning',
-      },
-    ],
-    'terra/custom-property-pseudo-selectors': [
-      true,
-      {
-        severity: 'warning',
-      },
-    ],
-    'terra/custom-property-namespace': [
-      true,
-      {
-        severity: 'warning',
-      },
-    ],
+    'terra/custom-property-name': true,
+    'terra/custom-property-no-duplicate-declaration': true,
+    'terra/custom-property-pattern': true,
+    'terra/custom-property-pseudo-selectors': true,
+    'terra/custom-property-namespace': true,
     'plugin/no-unsupported-browser-features': [
       true,
       {

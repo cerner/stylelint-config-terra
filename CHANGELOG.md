@@ -1,5 +1,7 @@
 ChangeLog
 =========
+### Breaking Changes
+- Enabled custom property rules to throw errors for violations
 
 1.5.1 - (December 19, 2018)
 -----------------

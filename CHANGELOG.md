@@ -1,5 +1,8 @@
 ChangeLog
 =========
+
+2.0.0 - (January 29, 2019)
+-----------------
 ### Breaking Changes
 - Enabled custom property rules to throw errors for violations
 

@@ -1,7 +1,8 @@
 ChangeLog
 =========
-### Changed
-- Updated stylelint dependencies to current versions
+### Breaking Changes
+* Added more styles to ignore list 
+* Updated stylelint dependencies to current versions
 
 2.0.0 - (January 29, 2019)
 -----------------

@@ -21,6 +21,7 @@ module.exports = {
         message: 'Custom property names should be written in lowercase with hyphens',
       },
     ],
+    'declaration-property-unit-whitelist': [{ 'line-height': [] }, { severity: 'warning' }],
     'terra/custom-property-name': true,
     'terra/custom-property-no-duplicate-declaration': true,
     'terra/custom-property-pattern': true,

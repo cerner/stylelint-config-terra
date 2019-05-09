@@ -4,6 +4,8 @@ ChangeLog
 Unreleased
 ----------
 
+3.1.0 - (May 9, 2019)
+-----------------
 ### Added
 * Added warning to enforce a unitless line-height
 

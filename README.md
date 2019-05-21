@@ -10,7 +10,7 @@
 
 [![NPM version](https://badgen.net/npm/v/stylelint-config-terra)](https://www.npmjs.org/package/stylelint-config-terra)
 [![License](https://badgen.net/github/license/cerner/stylelint-config-terra)](https://github.com/cerner/stylelint-config-terra/blob/master/LICENSE)
-[![Build Status](https://badgen.net/travis/cerner/stylelint-config-terra)](https://travis-ci.org/cerner/stylelint-config-terra)
+[![Build Status](https://badgen.net/travis/cerner/stylelint-config-terra)](https://travis-ci.com/cerner/stylelint-config-terra)
 [![Dependencies status](https://badgen.net/david/dep/cerner/stylelint-config-terra)](https://david-dm.org/cerner/stylelint-config-terra)
 [![devDependencies status](https://badgen.net/david/dev/cerner/stylelint-config-terra)](https://david-dm.org/cerner/stylelint-config-terra?type=dev)
 

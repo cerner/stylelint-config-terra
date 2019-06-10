@@ -30,8 +30,6 @@
   "scripts": {
     "clean": "rimraf node_modules",
     "clean:install": "npm run clean && npm install",
-    "danger": "danger ci",
-    "danger:local": "danger local",
     "lint": "eslint --ext .js,.jsx .",
     "test": "tape lib/**/__tests__/**/*.js",
     "postpublish": "git push --tag",
@@ -42,8 +40,8 @@
   },
   "dependencies": {
     "browserslist-config-terra": "^1.0.0",
-    "find-up": "^3.0.0",
-    "postcss-value-parser": "^3.3.1",
+    "find-up": "^4.0.0",
+    "postcss-value-parser": "^4.0.0",
     "stylelint-config-sass-guidelines": "^6.0.0",
     "stylelint-no-unsupported-browser-features": "^3.0.0",
     "stylelint-order": "^3.0.0",
@@ -54,7 +52,6 @@
     "stylelint": "^10.0.1"
   },
   "devDependencies": {
-    "danger": "^3.7.14",
     "eslint": "^5.0.0",
     "eslint-config-terra": "^2.0.0",
     "rimraf": "^2.6.1",

@@ -3,6 +3,12 @@ ChangeLog
 
 Unreleased
 ----------
+### Changed
+* Updated find-up dependency to ^4.0.0
+* Updated postcss-value-parser to ^4.0.0
+
+### Removed
+* Removed DangerJS integration
 
 3.1.0 - (May 9, 2019)
 -----------------

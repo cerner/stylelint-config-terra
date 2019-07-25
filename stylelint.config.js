@@ -13,7 +13,7 @@ module.exports = {
   ],
   rules: {
     'max-nesting-depth': 3,
-    'scss/at-mixin-pattern': '^(terra-)[a-z]+([a-z0-9-]+[a-z0-9]+)?$',
+    'scss/at-mixin-pattern': '^[a-z]+([a-z0-9-]+[a-z0-9]+)?$',
     'suitcss/custom-property-no-outside-root': true,
     'custom-property-pattern': [
       'terra-[a-z]+([a-z0-9-]+[a-z0-9]+)?$',

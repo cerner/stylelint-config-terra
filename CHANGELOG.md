@@ -6,6 +6,7 @@ Unreleased
 ### Changed
 * Updated find-up dependency to ^4.0.0
 * Updated postcss-value-parser to ^4.0.0
+* Removed Terra prefix from mixin pattern rule.
 
 ### Removed
 * Removed DangerJS integration

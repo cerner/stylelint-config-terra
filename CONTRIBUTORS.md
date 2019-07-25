@@ -6,6 +6,7 @@ Cerner Corporation
 - Brett Jankord [@bjankord]
 - Stephen Esser [@StephenEsser]
 - Alex Brisimitzakis [@AlexB98]
+- Saket Bajaj [saket2403]
 
 [@emilyrohrbough]: https://github.com/emilyrohrbough
 [@mjhenkes]: https://github.com/mjhenkes
@@ -13,3 +14,4 @@ Cerner Corporation
 [@bjankord]: https://github.com/bjankord
 [@StephenEsser]: https://github.com/StephenEsser
 [@AlexB98]: https://github.com/AlexB98
+[@saket2403]: https://github.com/saket2403

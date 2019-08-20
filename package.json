@@ -28,7 +28,7 @@
     "extends": "terra"
   },
   "scripts": {
-    "clean": "rimraf node_modules",
+    "clean": "rm -rf node_modules",
     "clean:install": "npm run clean && npm install",
     "lint": "eslint --ext .js,.jsx .",
     "test": "tape lib/**/__tests__/**/*.js",
@@ -52,9 +52,8 @@
     "stylelint": "^10.0.1"
   },
   "devDependencies": {
-    "eslint": "^5.0.0",
-    "eslint-config-terra": "^2.0.0",
-    "rimraf": "^2.6.1",
+    "eslint": "^6.1.0",
+    "eslint-config-terra": "^3.0.0",
     "stylelint": "^10.0.1",
     "stylelint-test-rule-tape": "^0.2.0"
   }

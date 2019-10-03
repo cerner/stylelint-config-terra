@@ -13,6 +13,7 @@ module.exports = {
   ],
   rules: {
     'max-nesting-depth': 3,
+    'no-extra-semicolons': [true, { severity: 'warning' }],
     'scss/at-mixin-pattern': '^[a-z]+([a-z0-9-]+[a-z0-9]+)?$',
     'suitcss/custom-property-no-outside-root': true,
     'custom-property-pattern': [

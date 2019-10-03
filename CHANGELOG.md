@@ -3,6 +3,9 @@ ChangeLog
 
 Unreleased
 ----------
+### Added
+* Added no-extra-semicolons rule to enforce no extra semicolons
+
 ### Changed
 * Updated nvmrc file to use lts/dubnium
 * Updated find-up dependency to ^4.0.0

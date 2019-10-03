@@ -3,6 +3,9 @@ ChangeLog
 
 Unreleased
 ----------
+
+3.2.0 - (October 3, 2019)
+-----------------
 ### Added
 * Added no-extra-semicolons rule to enforce no extra semicolons
 

@@ -11,6 +11,9 @@ Unreleased
 * Updated find-up dependency to ^4.0.0
 * Updated postcss-value-parser to ^4.0.0
 * Updated ESLint to v6
+* Updated stylelint-config-sass-guidelines to ^6.1.0
+* Updated stylelint-order to ^3.1.1
+* Updated stylelint-scss to ^3.11.0
 
 ### Removed
 * Removed DangerJS integration

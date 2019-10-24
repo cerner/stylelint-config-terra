@@ -4,6 +4,9 @@ ChangeLog
 Unreleased
 ----------
 
+### Changed
+* Added Dave as a code owner.
+
 3.2.0 - (October 3, 2019)
 -----------------
 ### Added

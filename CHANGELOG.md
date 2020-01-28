@@ -3,6 +3,9 @@ ChangeLog
 
 Unreleased
 ----------
+
+3.3.0 - (January 28, 2020)
+-----------------
 ### Changed
 * Added Dave as a code owner.
 * Update copyright to include 2020

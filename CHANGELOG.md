@@ -4,6 +4,9 @@ ChangeLog
 Unreleased
 ----------
 
+### Removed
+* Removed the `suitcss/custom-property-no-outside-root` rule as it conflicts with our themeing strategy.
+
 3.3.0 - (January 28, 2020)
 -----------------
 ### Changed

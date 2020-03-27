@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  dev:
+    image: cerner/terra-node-dev:1
+    volumes:
+      - .:/opt/module

@@ -3,7 +3,6 @@ const browserslist = require('browserslist-config-terra');
 module.exports = {
   extends: 'stylelint-config-sass-guidelines',
   plugins: [
-    'stylelint-suitcss',
     'stylelint-no-unsupported-browser-features',
     './lib/rules/custom-property-no-duplicate-declaration/custom-property-no-duplicate-declaration',
     './lib/rules/custom-property-name/custom-property-name',
@@ -15,7 +14,6 @@ module.exports = {
     'max-nesting-depth': 3,
     'no-extra-semicolons': [true, { severity: 'warning' }],
     'scss/at-mixin-pattern': '^[a-z]+([a-z0-9-]+[a-z0-9]+)?$',
-    'suitcss/custom-property-no-outside-root': true,
     'custom-property-pattern': [
       'terra-[a-z]+([a-z0-9-]+[a-z0-9]+)?$',
       {

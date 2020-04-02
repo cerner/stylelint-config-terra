@@ -3,7 +3,6 @@ ChangeLog
 
 Unreleased
 ----------
-
 3.4.0 - (March 31, 2020)
 -----------------
 ### Removed

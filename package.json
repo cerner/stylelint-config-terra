@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/cerner/stylelint-config-terra",
   "eslintConfig": {
-    "extends": "terra"
+    "extends": "@cerner/terra"
   },
   "scripts": {
     "clean": "rm -rf node_modules",
@@ -51,8 +51,8 @@
     "stylelint": "^10.0.1 || ^11.0.0"
   },
   "devDependencies": {
+    "@cerner/eslint-config-terra": "^4.0.0",
     "eslint": "^6.1.0",
-    "eslint-config-terra": "^3.0.0",
     "stylelint": "^11.0.0",
     "stylelint-test-rule-tape": "^0.2.0"
   }

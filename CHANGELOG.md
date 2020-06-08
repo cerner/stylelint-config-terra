@@ -3,6 +3,9 @@ ChangeLog
 
 Unreleased
 ----------
+### Changed
+* Updated eslint-config-terra to @cerner/eslint-config-terra v^4.0.0
+
 3.4.0 - (March 31, 2020)
 -----------------
 ### Removed

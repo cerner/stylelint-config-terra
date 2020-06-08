@@ -8,6 +8,7 @@ Cerner Corporation
 - Alex Brisimitzakis [@AlexB98]
 - Saket Bajaj [@saket2403]
 - Ben Cai [@benbcai]
+- Dianna McGinn [@DMcginn]
 
 [@emilyrohrbough]: https://github.com/emilyrohrbough
 [@mjhenkes]: https://github.com/mjhenkes
@@ -17,3 +18,4 @@ Cerner Corporation
 [@AlexB98]: https://github.com/AlexB98
 [@saket2403]: https://github.com/saket2403
 [@benbcai]: https://github.com/benbcai
+[@DMcginn]: https://github.com/DMcginn

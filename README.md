@@ -1,6 +1,6 @@
 <!-- Logo -->
 <p align="center">
-  <img height="128" width="128" src="https://github.com/cerner/stylelint-config-terra/raw/master/terra.png">
+  <img height="128" width="128" src="https://github.com/cerner/stylelint-config-terra/raw/main/terra.png">
 </p>
 
 <!-- Name -->
@@ -9,7 +9,7 @@
 </h1>
 
 [![NPM version](https://badgen.net/npm/v/stylelint-config-terra)](https://www.npmjs.org/package/stylelint-config-terra)
-[![License](https://badgen.net/github/license/cerner/stylelint-config-terra)](https://github.com/cerner/stylelint-config-terra/blob/master/LICENSE)
+[![License](https://badgen.net/github/license/cerner/stylelint-config-terra)](https://github.com/cerner/stylelint-config-terra/blob/main/LICENSE)
 [![Build Status](https://badgen.net/travis/cerner/stylelint-config-terra)](https://travis-ci.com/cerner/stylelint-config-terra)
 [![Dependencies status](https://badgen.net/david/dep/cerner/stylelint-config-terra)](https://david-dm.org/cerner/stylelint-config-terra)
 [![devDependencies status](https://badgen.net/david/dev/cerner/stylelint-config-terra)](https://david-dm.org/cerner/stylelint-config-terra?type=dev)
@@ -67,10 +67,10 @@ For example, it is possible to override the browsers specified to the no-unsuppo
 
 The following custom rules are enabled by default.
 
-* [terra/custom-property-name](https://github.com/cerner/stylelint-config-terra/blob/master/lib/rules/custom-property-name): Requires custom properties to be suffixed with the css property name.
-* [terra/custom-property-namespace](https://github.com/cerner/stylelint-config-terra/blob/master/lib/rules/custom-property-namespace): Requires custom properties to be prefixed with a namespace.
-* [terra/custom-property-pattern](https://github.com/cerner/stylelint-config-terra/blob/master/lib/rules/custom-property-pattern): Requires custom properties to be written in lowercase alphanumeric characters and hyphens.
-* [terra/custom-property-pseudo-selectors](https://github.com/cerner/stylelint-config-terra/blob/master/lib/rules/custom-property-pseudo-selectors): Requires custom properties to include all ancestor pseudo selectors in order.
+* [terra/custom-property-name](https://github.com/cerner/stylelint-config-terra/blob/main/lib/rules/custom-property-name): Requires custom properties to be suffixed with the css property name.
+* [terra/custom-property-namespace](https://github.com/cerner/stylelint-config-terra/blob/main/lib/rules/custom-property-namespace): Requires custom properties to be prefixed with a namespace.
+* [terra/custom-property-pattern](https://github.com/cerner/stylelint-config-terra/blob/main/lib/rules/custom-property-pattern): Requires custom properties to be written in lowercase alphanumeric characters and hyphens.
+* [terra/custom-property-pseudo-selectors](https://github.com/cerner/stylelint-config-terra/blob/main/lib/rules/custom-property-pseudo-selectors): Requires custom properties to include all ancestor pseudo selectors in order.
 
 ## Versioning
 

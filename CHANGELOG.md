@@ -4,6 +4,10 @@ ChangeLog
 Unreleased
 ----------
 
+### Changed
+
+* Updated the custom-property-pattern rule to not require the terra prefix
+
 3.5.0 - (June 9, 2020)
 -----------------
 ### Changed

@@ -15,7 +15,7 @@ module.exports = {
     'no-extra-semicolons': [true, { severity: 'warning' }],
     'scss/at-mixin-pattern': '^[a-z]+([a-z0-9-]+[a-z0-9]+)?$',
     'custom-property-pattern': [
-      'terra-[a-z]+([a-z0-9-]+[a-z0-9]+)?$',
+      '[a-z]+([a-z0-9-]+[a-z0-9]+)?$',
       {
         message: 'Custom property names should be written in lowercase with hyphens',
       },

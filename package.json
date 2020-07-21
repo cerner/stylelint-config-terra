@@ -32,7 +32,7 @@
     "clean:install": "npm run clean && npm install",
     "lint": "eslint --ext .js,.jsx .",
     "test": "tape lib/**/__tests__/**/*.js",
-    "postpublish": "git push --tag",
+    "postpublish": "git push --follow-tags",
     "prepublishOnly": "npm whoami && npm run lint",
     "release:major": "npm version major -m 'Released version %s' && npm publish",
     "release:minor": "npm version minor -m 'Released version %s' && npm publish",

@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## 3.7.0 - (July 28, 2020)
+
 Fixed
 
 * Support scoped package names

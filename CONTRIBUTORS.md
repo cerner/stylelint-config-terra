@@ -9,6 +9,7 @@ Cerner Corporation
 - Saket Bajaj [@saket2403]
 - Ben Cai [@benbcai]
 - Dianna McGinn [@DMcginn]
+- Lokesh P [lokesh-0813]
 
 [@emilyrohrbough]: https://github.com/emilyrohrbough
 [@mjhenkes]: https://github.com/mjhenkes
@@ -19,3 +20,4 @@ Cerner Corporation
 [@saket2403]: https://github.com/saket2403
 [@benbcai]: https://github.com/benbcai
 [@DMcginn]: https://github.com/DMcginn
+[@lokesh-013]: https://github.com/lokesh-0813

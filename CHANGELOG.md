@@ -2,6 +2,10 @@
 
 ## Unreleased
 
+Changed
+
+* Changed `browserslist-config-terra` to `@cerner/browserslist-config-terra`.
+
 ## 3.7.0 - (July 28, 2020)
 
 Fixed

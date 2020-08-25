@@ -1,4 +1,4 @@
-const browserslist = require('browserslist-config-terra');
+const browserslist = require('@cerner/browserslist-config-terra');
 
 module.exports = {
   extends: 'stylelint-config-sass-guidelines',

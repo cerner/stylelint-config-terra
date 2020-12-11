@@ -15,6 +15,9 @@
 [![devDependencies status](https://badgen.net/david/dev/cerner/stylelint-config-terra)](https://david-dm.org/cerner/stylelint-config-terra?type=dev)
 
 
+# This repo is archived and active development has moved to [terra-toolkit](https://github.com/cerner/terra-toolkit).
+
+
 This configuration reflects Terra's supported stylelint policy for their UI library stylesheets. It extends the  [stylelint-config-sass-guidelines](https://github.com/bjankord/stylelint-config-sass-guidelines) configuration which is based on [sass-guidelines](https://sass-guidelin.es/). Additionally, this configuration utilizes the [stylelint-no-unsupported-browser-features](https://github.com/ismay/stylelint-no-unsupported-browser-features) plugin to check if the styles used are supported by the browsers being targeted. Terra's targeted browsers are specified by the [browserslist-config-terra](https://github.com/cerner/browserslist-config-terra) module.
 
 ## What is Stylelint?
